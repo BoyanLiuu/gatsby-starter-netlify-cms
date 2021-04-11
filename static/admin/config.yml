@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo:BoyanLiuu/gatsby-starter-netlify-cms
+  repo: BoyanLiuu/gatsby-starter-netlify-cms
   branch: master
   commit_messages:
     create: 'Create {{collection}} “{{slug}}”'
